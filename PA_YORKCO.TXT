@@ -1,31 +1,31 @@
 # York County
 #North Simulcast
-f=7697562500,d=North Simulcast
-f=7714187500,d=North Simulcast
-f=7717437500,d=North Simulcast
-f=7734187500,d=North Simulcast
-f=7749187500,d=North Simulcast
+f=769756250,d=North Simulcast
+f=771418750,d=North Simulcast
+f=771743750,d=North Simulcast
+f=773418750,d=North Simulcast
+f=774918750,d=North Simulcast
 
 #South Simulcast
-f=7697687500,d=South Simulcast
-f=7708562500,d=South Simulcast
-f=7714062500,d=South Simulcast
-f=7717312500,d=South Simulcast
-f=7734062500,d=South Simulcast
-f=7749062500,d=South Simulcast
+f=769768750,d=South Simulcast
+f=770856250,d=South Simulcast
+f=771406250,d=South Simulcast
+f=771731250,d=South Simulcast
+f=773406250,d=South Simulcast
+f=774906250,d=South Simulcast
 
 #Central Simulcast
-f=7693562500,d=Central Simulcast
-f=7700562500,d=Central Simulcast
-f=7711062500,d=Central Simulcast
-f=7719812500,d=Central Simulcast
-f=7722687500,d=Central Simulcast
-f=7725812500,d=Central Simulcast
-f=7727687500,d=Central Simulcast
+f=769356250,d=Central Simulcast
+f=770056250,d=Central Simulcast
+f=771106250,d=Central Simulcast
+f=771981250,d=Central Simulcast
+f=772268750,d=Central Simulcast
+f=772581250,d=Central Simulcast
+f=772768750,d=Central Simulcast
 
 #West Simulcast
-f=7718062500,d=West Simulcast
-f=7720812500,d=West Simulcast
-f=7732437500,d=West Simulcast
-f=7738937500,d=West Simulcast
-f=7741687500,d=West Simulcast
+f=771806250,d=West Simulcast
+f=772081250,d=West Simulcast
+f=773243750,d=West Simulcast
+f=773893750,d=West Simulcast
+f=774168750,d=West Simulcast
