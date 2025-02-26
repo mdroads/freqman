@@ -1,0 +1,53 @@
+#Lancaster County-Wide Communications (LCWC)
+
+#Central Simulcast 	(Lancaster County) 	
+476.0125c	
+476.0875c	
+476.275c	
+476.350c	
+476.5375c	
+476.6125c	
+476.800c
+476.875c	
+477.0625c	
+477.2125c	
+477.475c	 	 	 
+
+#Northeast Simulcast 	(Lancaster County) 	
+476.1625c	
+476.425c	
+476.6875c	
+477.1375c	
+477.2875c	
+477.400c	
+477.550c
+477.850c	 	 	 	 	 	 
+
+#Northwest Simulcast 	(Lancaster County) 	
+478.075c	
+478.150c	
+478.3375c	
+478.4125c	
+478.600c	
+478.7875c	
+478.8625c
+
+#South Simulcast 	(Lancaster County) 	
+476.4625c	
+476.725c	
+477.3625c	
+477.6625c	
+477.8125c	
+477.925c	 
+
+#COW (Portable site) 	(Lancaster County) 	
+476.050c	
+476.575c	
+477.100c	
+477.625c	 	 	 
+
+#Atglen 	(Chester County) 	
+453.275c	
+453.8375c	
+460.300c	
+460.550c
