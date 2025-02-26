@@ -1,0 +1,305 @@
+# Baltimore Simulcast (Baltimore County)
+f=769181250,d=Baltimore Simulcast
+f=769456250,d=Baltimore Simulcast
+f=769481250,d=Baltimore Simulcast
+f=769718750,d=Baltimore Simulcast
+f=770231250,d=Baltimore Simulcast
+f=770981250,d=Baltimore Simulcast
+f=773018750,d=Baltimore Simulcast
+f=773293750,d=Baltimore Simulcast	
+f=773543750,d=Baltimore Simulcast	
+f=773806250,d=Baltimore Simulcast c
+f=773868750,d=Baltimore Simulcast
+f=774018750,d=Baltimore Simulcast
+f=774268750,d=Baltimore Simulcast
+f=774306250,d=Baltimore Simulcast 	
+f=774581250,d=Baltimore Simulcast
+f=774768750,d=Baltimore Simulcast
+
+# Anne Arundel Simulcast (Anne Arundel County)
+f=769506250,d=Anne Arundel Simulcast
+f=770456250,d=Anne Arundel Simulcast
+f=771456250,d=Anne Arundel Simulcast
+f=772431250,d=Anne Arundel Simulcast
+f=773081250,d=Anne Arundel Simulcast
+f=773831250,d=Anne Arundel Simulcast c	
+f=774131250,d=Anne Arundel Simulcast c
+f=774781250,d=Anne Arundel Simulcast
+
+# Harford Simulcast (Harford County)
+f=769206250,d=Harford Simulcast
+f=769918750,d=Harford Simulcast
+f=770418750,d=Harford Simulcast
+f=770681250,d=Harford Simulcast
+f=773581250,d=Harford Simulcast c	
+f=774818750,d=Harford Simulcast c
+
+# Cherrytown Chicken ASR (Carroll County)
+f=769668750,d=Cherrytown Chicken ASR
+f=774318750,d=Cherrytown Chicken ASR
+f=774568750,d=Cherrytown Chicken ASR c
+f=774793750,d=Cherrytown Chicken ASR c
+
+# Howard Simulcast (Howard County)
+f=770168750,d=Howard Simulcast
+f=770531250,d=Howard Simulcast
+f=770943750,d=Howard Simulcast
+f=772381250,d=Howard Simulcast
+f=773381250,d=Howard Simulcast c	
+f=774481250,d=Howard Simulcast c
+
+# Baltimore Harbor Tunnels (Baltimore City)
+f=769156250,d=Baltimore Harbor Tunnels
+f=769718750,d=Baltimore Harbor Tunnels
+f=770406250,d=Baltimore Harbor Tunnels
+f=773843750,d=Baltimore Harbor Tunnels
+f=774343750,d=Baltimore Harbor Tunnels c
+f=774843750,d=Baltimore Harbor Tunnels c
+
+# Towson University ASR (Baltimore County)
+f=769218750,d=Towson University ASR
+f=769656250,d=Towson University ASR
+f=770156250,d=Towson University ASR
+f=770656250,d=Towson University ASR
+f=773068750,d=Towson University ASR c
+f=773568750,d=Towson University ASR c	
+
+# Conowingo ASR (Harford County)
+f=769156250,d=Conowingo ASR
+f=769706250,d=Conowingo ASR
+f=770443750,d=Conowingo ASR
+f=770968750,d=Conowingo ASR
+f=773281250,d=Conowingo ASR c
+f=774281250,d=Conowingo ASR c
+
+# Greenbury Point ASR (Anne Arundel County)
+f=769268750,d=Greenbury Point ASR
+f=770768750,d=Greenbury Point ASR
+f=771318750,d=Greenbury Point ASR
+f=771706250,d=Greenbury Point ASR
+f=772781250,d=Greenbury Point ASR c
+f=773968750,d=Greenbury Point ASR c	
+
+# Tracys Landing ASR (Anne Arundel County)
+f=771156250,d=Tracys Landing ASR
+f=771881250,d=Tracys Landing ASR
+f=772231250,d=Tracys Landing ASR
+f=772856250,d=Tracys Landing ASR
+f=773681250,d=Tracys Landing ASR c
+f=774456250,d=Tracys Landing ASR c
+
+# Lineboro ASR (Carroll County)
+f=769406250,d=Lineboro ASR
+f=769906250,d=Lineboro ASR
+f=770406250,d=Lineboro ASR
+f=770718750,d=Lineboro ASR
+f=773343750,d=Lineboro ASR c
+f=774343750,d=Lineboro ASR c 
+
+# Mt Airy ASR (Howard County)
+f=769981250,d=Mt Airy ASR
+f=770193750,d=Mt Airy ASR
+f=770918750,d=Mt Airy ASR
+f=773781250,d=Mt Airy ASR
+f=774043750,d=Mt Airy ASR c
+f=774806250,d=Mt Airy ASR c
+
+# Bridgeport SHA ASR (Frederick County)
+
+770 83125	771 16875	772 04375c	772 66875c	774 40625	774 88125
+
+# Gambrill Mountain ASR (Frederick County)
+
+769 68125	769 93125	770 45625	773 05625	773 53125c	774 78125c
+
+
+# Lambs Knoll ASR (Washington County)
+
+769 95625	773 31875	773 55625	774 08125	774 33125c	774 83125c	 
+
+# Quirauk ASR (Washington County)
+
+769 54375	770 81875	771 11875	772 76875	773 19375c	773 91875c
+
+
+# Washington Simulcast (Washington County)	
+
+	769 20625	769 43125	770 21875	770 70625	773 80625c	774 58125c
+
+
+# Sideling Hill ASR (Washington County)
+
+769 84375	771 26875	771 56875	771 98125	772 99375c	773 49375c
+
+# Allegany Simulcast (Allegany County)
+
+	769 18125	770 16875	770 68125	773 08125	774 53125c	774 78125c	 
+
+# Table Rock ASR (Garrett County)
+
+769 15625	770 19375	770 45625c	773 55625c	 
+
+
+# Allegany-Garrett Simulcast (Garrett County)
+
+769 21875	769 96875	770 94375	773 29375	773 53125c	774 05625c
+
+# Garrett Simulcast (Garrett County)
+
+769 19375	769 40625	770 43125	774 03125	774 30625c	774 80625c	
+
+# Warrior Mountain ASR (Allegany County)
+
+	769 46875	769 69375	770 40625	773 05625	773 34375c	774 84375c
+
+# Mar Lu Ridge ASR (Frederick County)
+
+	769 26875	771 36875	772 06875	772 86875	773 96875c	774 46875c
+
+# Tower Road ASR (Frederick County)
+
+769 59375	771 09375	771 46875	772 14375	772 36875c	774 21875c
+
+# Central Booking ASR (Baltimore City)
+
+769 30625	770 03125	774 18125c	774 70625c	 
+
+# Carroll Simulcast (Carroll County)
+
+	769 46875	773 84375	774 05625c	774 84375c	 
+
+# Ocean City ASR (Worcester County)
+
+	769 50625	770 58125	771 23125	771 85625	774 15625c	774 43125c	 
+
+# Worcester/Somerset Simulcast (Worcester County)
+
+769 20625	769 45625	769 68125	770 91875	774 33125c	774 79375c	
+
+
+# Wicomico Simulcast (Wicomico County)
+	769 10625	769 56875	770 10625	770 75625	772 30625c	774 71875c	
+
+# Smithville ASR (Dorchester County)
+
+770 84375	771 21875	771 51875	771 84375	772 08125c	772 68125c	
+
+# Dorchester Simulcast (Dorchester County)
+
+769 21875	769 70625	770 03125	770 69375	774 19375c	774 53125c
+
+# Talbot Simulcast (Talbot County)
+
+769 95625	770 21875	770 71875	771 71875	773 14375	773 59375	773 84375c
+ 	 	 	 	774 83125c	
+
+# Kent Simulcast (Kent County)
+
+	769 19375	769 46875	769 94375	770 70625	773 79375c	774 31875c	
+
+# Caroline Simulcast (Caroline County)
+
+770 43125	770 66875	770 95625	773 09375	773 31875c	773 81875c	 
+
+
+# Queen Anne's Simulcast (Queen Anne's County)
+
+769 66875	770 18125	773 55625	774 06875	774 54375c	774 80625c	
+
+# Federalsburg ASR (Caroline County)
+
+770 30625	771 01875	771 56875	772 00625	772 39375c	772 95625c	
+
+# Matapeake ASR (Queen Anne's County)
+
+	769 16875	770 90625	773 04375	773 28125	774 29375c	774 56875c	
+
+# Bozman ASR (Talbot County)
+
+769 54375	769 76875	770 31875	770 93125	772 01875c	772 33125c
+
+# Cecilton ASR (Cecil County)
+f=769518750,d=Cecilton ASR
+f=770343750,d=Cecilton ASR
+f=770568750,d=Cecilton ASR
+f=771068750,d=Cecilton ASR
+f=771656250,d=Cecilton ASR c
+f=772693750,d=Cecilton ASR c
+
+# Cecil Simulcast (Cecil County)
+f=769443750,d=Cecil Simulcast
+f=769681250,d=Cecil Simulcast
+f=769968750,d=Cecil Simulcast
+f=770468750,d=Cecil Simulcast
+f=773056250,d=Cecil Simulcast
+f=773306250,d=Cecil Simulcast c
+f=774056250,d=Cecil Simulcast c
+f=774531250,d=Cecil Simulcast
+
+# Crisfield ASR (Somerset County)
+f=769343750,d=Crisfield ASR
+f=773731250,d=Crisfield ASR
+f=774168750,d=Crisfield ASR c
+f=774656250,d=Crisfield ASR c
+
+
+# Montgomery Simulcast (Montgomery County)
+f=769093750,d=Montgomery Simulcast
+f=771581250,d=Montgomery Simulcast
+f=771893750,d=Montgomery Simulcast
+f=772243750,d=Montgomery Simulcast
+f=772618750,d=Montgomery Simulcast
+f=772831250,d=Montgomery Simulcast
+f=773731250,d=Montgomery Simulcast c
+f=774418750,d=Montgomery Simulcast c
+
+# Prince George's Simulcast (Prince George's County)
+f=769331250,d=Prince George's Simulcast
+f=771006250,d=Prince George's Simulcast
+f=771643750,d=Prince George's Simulcast
+f=771981250,d=Prince George's Simulcast
+f=772693750,d=Prince George's Simulcast
+f=772993750,d=Prince George's Simulcast
+f=773493750,d=Prince George's Simulcast c
+f=774556250,d=Prince George's Simulcast c 
+
+# Calvert Simulcast (Calvert County)
+f=769931250,d=Calvert Simulcast
+f=771256250,d=Calvert Simulcast
+f=772193750,d=Calvert Simulcast
+f=773531250,d=Calvert Simulcast
+f=774081250,d=Calvert Simulcast c
+f=774818750,d=Calvert Simulcast c
+
+# Charles Simulcast (Charles County)
+f=769431250,d=Charles Simulcast
+f=772643750,d=Charles Simulcast
+f=773056250,d=Charles Simulcast c
+f=773493750,d=Charles Simulcast
+f=774056250,d=Charles Simulcast c
+
+# Nice Bridge ASR (Charles County)
+f=770793750,d=Nice Bridge ASR
+f=773481250,d=Nice Bridge ASR c
+f=773781250,d=Nice Bridge ASR c	 
+
+# St  Mary's Simulcast (St Mary's County)
+f=769406250,d=St  Mary's Simulcast
+f=770656250,d=St  Mary's Simulcast
+f=773031250,d=St  Mary's Simulcast
+f=773581250,d=St  Mary's Simulcast
+f=774593750,d=St  Mary's Simulcast c
+f=774843750,d=St  Mary's Simulcast c	
+
+# Bethune ASR (St Mary's County)
+f=769843750,d=Bethune ASR
+f=770543750,d=Bethune ASR
+f=771043750,d=Bethune ASR
+f=771668750,d=Bethune ASR
+f=772768750,d=Bethune ASR
+f=773718750,d=Bethune ASR c
+
+# DC ASR (Washington DC)
+f=772518750,d=DC ASR
+f=772743750,d=DC ASR c
+f=773693750,d=DC ASR c	 
