@@ -1,6 +1,5 @@
 #Lancaster County-Wide Communications (LCWC)
-
-#Central Simulcast 	(Lancaster County) 	
+#Central Simulcast (Lancaster County) 	
 f=476012500,d=Central Simulcast
 f=476087500,d=Central Simulcast 	
 f=476275000,d=Central Simulcast
@@ -13,7 +12,7 @@ f=477062500,d=Central Simulcast
 f=477212500,d=Central Simulcast
 f=477475000,d=Central Simulcast
 
-#Northeast Simulcast 	(Lancaster County) 	
+#Northeast Simulcast (Lancaster County) 	
 f=476162500,d=Northeast Simulcast
 f=476425000,d=Northeast Simulcast
 f=476687500,d=Northeast Simulcast
@@ -23,7 +22,7 @@ f=477400000,d=Northeast Simulcast
 f=477550000,d=Northeast Simulcast
 f=477850000,d=Northeast Simulcast
 
-#Northwest Simulcast 	(Lancaster County) 	
+#Northwest Simulcast (Lancaster County) 	
 f=478075000,d=Northwest Simulcast
 f=478150000,d=Northwest Simulcast
 f=478337500,d=Northwest Simulcast
@@ -32,7 +31,7 @@ f=478600000,d=Northwest Simulcast
 f=478787500,d=Northwest Simulcast
 f=478862500,d=Northwest Simulcast
 
-#South Simulcast 	(Lancaster County) 	
+#South Simulcast (Lancaster County) 	
 f=476462500,d=South Simulcast
 f=476725000,d=South Simulcast
 f=477362500,d=South Simulcast
@@ -40,13 +39,13 @@ f=477662500,d=South Simulcast
 f=477812500,d=South Simulcast
 f=477925000,d=South Simulcast
 
-#COW (Portable site) 	(Lancaster County) 	
+#COW (Portable site) (Lancaster County) 	
 f=476050000,d=COW (Portable site)
 f=476575000,d=COW (Portable site)
 f=477100000,d=COW (Portable site)
 f=477625000,d=COW (Portable site)
 
-#Atglen 	(Chester County) 	
+#Atglen (Chester County) 	
 f=453275000,d=Atglen
 f=453837500,d=Atglen
 f=460300000,d=Atglen
