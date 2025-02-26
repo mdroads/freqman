@@ -14,23 +14,23 @@ f=477212500,d=Central Simulcast
 f=477475000,d=Central Simulcast
 
 #Northeast Simulcast 	(Lancaster County) 	
-476.1625c	
-476.425c	
-476.6875c	
-477.1375c	
-477.2875c	
-477.400c	
-477.550c
-477.850c	 	 	 	 	 	 
+f=476162500,d=Northeast Simulcast
+f=476425000,d=Northeast Simulcast
+f=476687500,d=Northeast Simulcast
+f=477137500,d=Northeast Simulcast
+f=477287500,d=Northeast Simulcast
+f=477400000,d=Northeast Simulcast
+f=477550000,d=Northeast Simulcast
+f=477850000,d=Northeast Simulcast
 
 #Northwest Simulcast 	(Lancaster County) 	
-478.075c	
-478.150c	
-478.3375c	
-478.4125c	
-478.600c	
-478.7875c	
-478.8625c
+f=478075000,d=Northwest Simulcast
+f=478150000,d=Northwest Simulcast
+f=478337500,d=Northwest Simulcast
+f=478412500,d=Northwest Simulcast
+f=478600000,d=Northwest Simulcast
+f=478787500,d=Northwest Simulcast
+f=478862500,d=Northwest Simulcast
 
 #South Simulcast 	(Lancaster County) 	
 476.4625c	
