@@ -1,17 +1,17 @@
 #Lancaster County-Wide Communications (LCWC)
 
 #Central Simulcast 	(Lancaster County) 	
-476.0125c	
-476.0875c	
-476.275c	
-476.350c	
-476.5375c	
-476.6125c	
-476.800c
-476.875c	
-477.0625c	
-477.2125c	
-477.475c	 	 	 
+f=476012500,d=Central Simulcast
+f=476087500,d=Central Simulcast 	
+f=476275000,d=Central Simulcast
+f=476350000,d=Central Simulcast
+f=476537500,d=Central Simulcast
+f=476612500,d=Central Simulcast
+f=476800000,d=Central Simulcast
+f=476875000,d=Central Simulcast
+f=477062500,d=Central Simulcast
+f=477212500,d=Central Simulcast
+f=477475000,d=Central Simulcast
 
 #Northeast Simulcast 	(Lancaster County) 	
 476.1625c	
