@@ -105,8 +105,12 @@ f=774043750,d=Mt Airy ASR c
 f=774806250,d=Mt Airy ASR c
 
 # Bridgeport SHA ASR (Frederick County)
-
-770 83125	771 16875	772 04375c	772 66875c	774 40625	774 88125
+f=770831250,d=Bridgeport SHA ASR
+f=771168750,d=Bridgeport SHA ASR
+f=772043750,d=Bridgeport SHA ASR c
+f=772668750,d=Bridgeport SHA ASR c
+f=774406250,d=Bridgeport SHA ASR
+f=774881250,d=Bridgeport SHA ASR
 
 # Gambrill Mountain ASR (Frederick County)
 
