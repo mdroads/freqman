@@ -1,0 +1,21 @@
+# Montgomery Simulcast
+f=851212500,d=Montgomery
+f=851275000,d=Montgomery
+f=851337500,d=Montgomery
+f=851487500,d=Montgomery
+f=851650000,d=Montgomery
+f=852837500,d=Montgomery
+f=852887500,d=Montgomery
+f=852912500,d=Montgomery
+f=853112500,d=Montgomery
+f=853162500,d=Montgomery
+f=853275000,d=Montgomery
+f=853362500,d=Montgomery
+f=853387500,d=Montgomery
+f=853437500,d=Montgomery
+f=853612500,d=Montgomery
+f=853637500,d=Montgomery
+f=853687500,d=Montgomery c
+f=853862500,d=Montgomery c
+f=853887500,d=Montgomery c
+f=853937500,d=Montgomery c
