@@ -1,0 +1,34 @@
+# Prince George's County
+#North Simulcast
+f=7692812500,d=PG North Simulcast
+f=7697562500,d=PG North Simulcast
+f=7702562500,d=PG North Simulcast
+f=7706187500,d=PG North Simulcast
+f=7711812500,d=PG North Simulcast
+f=7717312500,d=PG North Simulcast
+f=7717812500,d=PG North Simulcast
+f=7720937500,d=PG North Simulcast
+f=7728812500,d=PG North Simulcast
+f=7731312500,d=PG North Simulcast
+f=7736312500,d=PG North Simulcast c
+f=7741562500,d=PG North Simulcast c
+f=7742062500,d=PG North Simulcast c
+f=7746812500,d=PG North Simulcast c
+
+#South Simulcast 
+f=769581250,d=PG South Simulcast
+f=770056250,d=PG South Simulcast
+f=770356250,d=PG South Simulcast
+f=771056250,d=PG South Simulcast
+f=771356250,d=South Simulcast
+f=771756250,d=South Simulcast
+f=772056250,d=South Simulcast
+f=772481250,d=South Simulcast c
+f=772906250,d=South Simulcast c
+f=773231250,d=South Simulcast c
+f=773881250,d=South Simulcast c
+
+#Metro Tunnels
+f=851225000,d=PG Metro Tunnels
+f=851375000,d=PG Metro Tunnels
+f=852900000,d=PG Metro Tunnels c
