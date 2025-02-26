@@ -2,10 +2,10 @@
 f=769556250,d=Harford Simulcast
 f=769806250,d=Harford Simulcast
 f=771731250,d=Harford Simulcast
-f=771481250,d=Harford Simulcast
-f=772156250,d=Harford Simulcast
-f=772456250,d=Harford Simulcast
-f=772731250,d=Harford Simulcast c
+f=771481250,d=Harford Simulcast c
+f=772156250,d=Harford Simulcast c
+f=772456250,d=Harford Simulcast c
+f=772731250,d=Harford Simulcast C
 f=772981250,d=Harford Simulcast
 f=774431250,d=Harford Simulcast
 f=774668750,d=Harford Simulcast
@@ -22,15 +22,15 @@ f=853812500,d=Harford Simulcast
 # Baltimore/Anne Arundel Simulcast
 f=770506250,d=Balt-AA Simulcast
 f=770806250,d=Balt-AA Simulcast
-f=771331250,d=Balt-AA Simulcast
-f=771606250,d=Balt-AA Simulcast
-f=772256250,d=Balt-AA Simulcast
-f=770718750,d=Balt-AA Simulcast
+f=771331250,d=Balt-AA Simulcast c
+f=771606250,d=Balt-AA Simulcast c
+f=772256250,d=Balt-AA Simulcast c
+f=770718750,d=Balt-AA Simulcast c
 
 # Howard/Carroll Simulcast
 f=771206250,d=How-Car Simulcast
 f=771681250,d=How-Car Simulcast
-f=771956250,d=How-Car Simulcast
-f=771206250,d=How-Car Simulcast
-f=772331250,d=How-Car Simulcast
-f=772756250,d=How-Car Simulcast
+f=771956250,d=How-Car Simulcast c
+f=772331250,d=How-Car Simulcast c
+f=772756250,d=How-Car Simulcast c
+f=772856250,d=How-Car Simulcast
