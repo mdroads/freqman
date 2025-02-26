@@ -113,114 +113,208 @@ f=774406250,d=Bridgeport SHA ASR
 f=774881250,d=Bridgeport SHA ASR
 
 # Gambrill Mountain ASR (Frederick County)
-
-769 68125	769 93125	770 45625	773 05625	773 53125c	774 78125c
-
+f=769681250,d=Gambrill Mountain ASR
+f=769931250,d=Gambrill Mountain ASR
+f=770456250,d=Gambrill Mountain ASR
+f=773056250,d=Gambrill Mountain ASR
+f=773531250,d=Gambrill Mountain ASR c
+f=774781250,d=Gambrill Mountain ASR c
 
 # Lambs Knoll ASR (Washington County)
-
-769 95625	773 31875	773 55625	774 08125	774 33125c	774 83125c	 
+f=769956250,d=Lambs Knoll ASR
+f=773318750,d=Lambs Knoll ASR
+f=773556250,d=Lambs Knoll ASR
+f=774081250,d=Lambs Knoll ASR
+f=774331250,d=Lambs Knoll ASR c
+f=774831250,d=Lambs Knoll ASR c
 
 # Quirauk ASR (Washington County)
-
-769 54375	770 81875	771 11875	772 76875	773 19375c	773 91875c
-
+f=769543750,d=Quirauk ASR
+f=770818750,d=Quirauk ASR
+f=771118750,d=Quirauk ASR
+f=772768750,d=Quirauk ASR
+f=773193750,d=Quirauk ASR c
+f=773918750,d=Quirauk ASR c
 
 # Washington Simulcast (Washington County)	
-
-	769 20625	769 43125	770 21875	770 70625	773 80625c	774 58125c
-
+f=769206250,d=Washington Simulcast
+f=769431250,d=Washington Simulcast
+f=770218750,d=Washington Simulcast
+f=770706250,d=Washington Simulcast
+f=773806250,d=Washington Simulcast c
+f=774581250,d=Washington Simulcast c
 
 # Sideling Hill ASR (Washington County)
-
-769 84375	771 26875	771 56875	771 98125	772 99375c	773 49375c
+f=769843750,d=Sideling Hill ASR
+f=771268750,d=Sideling Hill ASR
+f=771568750,d=Sideling Hill ASR
+f=771981250,d=Sideling Hill ASR
+f=772993750,d=Sideling Hill ASR c
+f=773493750,d=Sideling Hill ASR c
 
 # Allegany Simulcast (Allegany County)
-
-	769 18125	770 16875	770 68125	773 08125	774 53125c	774 78125c	 
+f=769181250,d=Allegany Simulcast
+f=770168750,d=Allegany Simulcast
+f=770681250,d=Allegany Simulcast
+f=773081250,d=Allegany Simulcast
+f=774531250,d=Allegany Simulcast c
+f=774781250,d=Allegany Simulcast c
 
 # Table Rock ASR (Garrett County)
-
-769 15625	770 19375	770 45625c	773 55625c	 
-
+f=769156250,d=Table Rock ASR
+f=770193750,d=Table Rock ASR
+f=770456250,d=Table Rock ASR c
+f=773556250,d=Table Rock ASR c	 
 
 # Allegany-Garrett Simulcast (Garrett County)
-
-769 21875	769 96875	770 94375	773 29375	773 53125c	774 05625c
+f=769218750,d=Allegany-Garrett Simulcast
+f=769968750,d=Allegany-Garrett Simulcast
+f=770943750,d=Allegany-Garrett Simulcast
+f=773293750,d=Allegany-Garrett Simulcast
+f=773531250,d=Allegany-Garrett Simulcast c
+f=774056250,d=Allegany-Garrett Simulcast c
 
 # Garrett Simulcast (Garrett County)
-
-769 19375	769 40625	770 43125	774 03125	774 30625c	774 80625c	
+f=769193750,d=Garrett Simulcast
+f=769406250,d=Garrett Simulcast
+f=770431250,d=Garrett Simulcast
+f=774031250,d=Garrett Simulcast
+f=774306250,d=Garrett Simulcast c
+f=774806250,d=Garrett Simulcast c
 
 # Warrior Mountain ASR (Allegany County)
-
-	769 46875	769 69375	770 40625	773 05625	773 34375c	774 84375c
+f=769468750,d=Warrior Mountain ASR
+f=769693750,d=Warrior Mountain ASR
+f=770406250,d=Warrior Mountain ASR
+f=773056250,d=Warrior Mountain ASR
+f=773343750,d=Warrior Mountain ASR c
+f=774843750,d=Warrior Mountain ASR c
 
 # Mar Lu Ridge ASR (Frederick County)
-
-	769 26875	771 36875	772 06875	772 86875	773 96875c	774 46875c
+f=769268750,d=Mar Lu Ridge ASR
+f=771368750,d=Mar Lu Ridge ASR
+f=772068750,d=Mar Lu Ridge ASR
+f=772868750,d=Mar Lu Ridge ASR
+f=773968750,d=Mar Lu Ridge ASR c
+f=774468750,d=Mar Lu Ridge ASR c
 
 # Tower Road ASR (Frederick County)
-
-769 59375	771 09375	771 46875	772 14375	772 36875c	774 21875c
+f=769593750,d=Tower Road ASR
+f=771093750,d=Tower Road ASR
+f=771468750,d=Tower Road ASR
+f=772143750,d=Tower Road ASR
+f=772368750,d=Tower Road ASR c
+f=774218750,d=Tower Road ASR c
 
 # Central Booking ASR (Baltimore City)
-
-769 30625	770 03125	774 18125c	774 70625c	 
+f=769306250,d=Central Booking ASR
+f=770031250,d=Central Booking ASR
+f=774181250,d=Central Booking ASR c
+f=774706250,d=Central Booking ASR c
 
 # Carroll Simulcast (Carroll County)
-
-	769 46875	773 84375	774 05625c	774 84375c	 
+f=769468750,d=Carroll Simulcast
+f=773843750,d=Carroll Simulcast
+f=774056250,d=Carroll Simulcast c
+f=774843750,d=Carroll Simulcast c
 
 # Ocean City ASR (Worcester County)
-
-	769 50625	770 58125	771 23125	771 85625	774 15625c	774 43125c	 
+f=769506250,d=Ocean City ASR
+f=770581250,d=Ocean City ASR
+f=771231250,d=Ocean City ASR
+f=771856250,d=Ocean City ASR
+f=774156250,d=Ocean City ASR c
+f=774431250,d=Ocean City ASR c
 
 # Worcester/Somerset Simulcast (Worcester County)
-
-769 20625	769 45625	769 68125	770 91875	774 33125c	774 79375c	
-
+f=769206250,d=Worcester/Somerset Simulcast
+f=769456250,d=Worcester/Somerset Simulcast
+f=769681250,d=Worcester/Somerset Simulcast
+f=770918750,d=Worcester/Somerset Simulcast
+f=774331250,d=Worcester/Somerset Simulcast c
+f=774793750,d=Worcester/Somerset Simulcast c
 
 # Wicomico Simulcast (Wicomico County)
-	769 10625	769 56875	770 10625	770 75625	772 30625c	774 71875c	
+f=769106250,d=Wicomico Simulcast
+f=769568750,d=Wicomico Simulcast
+f=770106250,d=Wicomico Simulcast
+f=770756250,d=Wicomico Simulcast
+f=772306250,d=Wicomico Simulcast c
+f=774718750,d=Wicomico Simulcast c
 
 # Smithville ASR (Dorchester County)
-
-770 84375	771 21875	771 51875	771 84375	772 08125c	772 68125c	
+f=770843750,d=Smithville ASR
+f=771218750,d=Smithville ASR
+f=771518750,d=Smithville ASR
+f=771843750,d=Smithville ASR
+f=772081250,d=Smithville ASR c
+f=772681250,d=Smithville ASR c
 
 # Dorchester Simulcast (Dorchester County)
-
-769 21875	769 70625	770 03125	770 69375	774 19375c	774 53125c
+f=769218750,d=Dorchester Simulcast
+f=769706250,d=Dorchester Simulcast
+f=770031250,d=Dorchester Simulcast
+f=770693750,d=Dorchester Simulcast
+f=774193750,d=Dorchester Simulcast c
+f=774531250,d=Dorchester Simulcast c
 
 # Talbot Simulcast (Talbot County)
-
-769 95625	770 21875	770 71875	771 71875	773 14375	773 59375	773 84375c
- 	 	 	 	774 83125c	
+f=769956250,d=Talbot Simulcast
+f=770218750,d=Talbot Simulcast
+f=770718750,d=Talbot Simulcast
+f=771718750,d=Talbot Simulcast
+f=773143750,d=Talbot Simulcast
+f=773593750,d=Talbot Simulcast
+f=773843750,d=Talbot Simulcast c
+f=774831250,d=Talbot Simulcast c
 
 # Kent Simulcast (Kent County)
-
-	769 19375	769 46875	769 94375	770 70625	773 79375c	774 31875c	
+f=769193750,d=Kent Simulcast
+f=769468750,d=Kent Simulcast
+f=769943750,d=Kent Simulcast
+f=770706250,d=Kent Simulcast
+f=773793750,d=Kent Simulcast c
+f=774318750,d=Kent Simulcast c
 
 # Caroline Simulcast (Caroline County)
-
-770 43125	770 66875	770 95625	773 09375	773 31875c	773 81875c	 
-
+f=770431250,d=Caroline Simulcast
+f=770668750,d=Caroline Simulcast
+f=770956250,d=Caroline Simulcast
+f=773093750,d=Caroline Simulcast
+f=773318750,d=Caroline Simulcast c
+f=773818750,d=Caroline Simulcast c
 
 # Queen Anne's Simulcast (Queen Anne's County)
-
-769 66875	770 18125	773 55625	774 06875	774 54375c	774 80625c	
+f=769668750,d=Queen Anne's Simulcast
+f=770181250,d=Queen Anne's Simulcast
+f=773556250,d=Queen Anne's Simulcast
+f=774068750,d=Queen Anne's Simulcast
+f=774543750,d=Queen Anne's Simulcast c
+f=774806250,d=Queen Anne's Simulcast c
 
 # Federalsburg ASR (Caroline County)
-
-770 30625	771 01875	771 56875	772 00625	772 39375c	772 95625c	
+f=770306250,d=Federalsburg ASR
+f=771018750,d=Federalsburg ASR
+f=771568750,d=Federalsburg ASR
+f=772006250,d=Federalsburg ASR
+f=772393750,d=Federalsburg ASR c
+f=772956250,d=Federalsburg ASR c
 
 # Matapeake ASR (Queen Anne's County)
-
-	769 16875	770 90625	773 04375	773 28125	774 29375c	774 56875c	
+f=769168750,d=Matapeake ASR
+f=770906250,d=Matapeake ASR
+f=773043750,d=Matapeake ASR
+f=773281250,d=Matapeake ASR
+f=774293750,d=Matapeake ASR c
+f=774568750,d=Matapeake ASR c
 
 # Bozman ASR (Talbot County)
-
-769 54375	769 76875	770 31875	770 93125	772 01875c	772 33125c
+f=769543750,d=Bozman ASR
+f=769768750,d=Bozman ASR
+f=770318750,d=Bozman ASR
+f=770931250,d=Bozman ASR
+f=772018750,d=Bozman ASR c
+f=772331250,d=Bozman ASR c
 
 # Cecilton ASR (Cecil County)
 f=769518750,d=Cecilton ASR
@@ -287,15 +381,15 @@ f=770793750,d=Nice Bridge ASR
 f=773481250,d=Nice Bridge ASR c
 f=773781250,d=Nice Bridge ASR c	 
 
-# St  Mary's Simulcast (St Mary's County)
-f=769406250,d=St  Mary's Simulcast
-f=770656250,d=St  Mary's Simulcast
-f=773031250,d=St  Mary's Simulcast
-f=773581250,d=St  Mary's Simulcast
-f=774593750,d=St  Mary's Simulcast c
-f=774843750,d=St  Mary's Simulcast c	
+# Saint Mary's Simulcast (Saint Mary's County)
+f=769406250,d=Saint Mary's Simulcast
+f=770656250,d=Saint Mary's Simulcast
+f=773031250,d=Saint Mary's Simulcast
+f=773581250,d=Saint Mary's Simulcast
+f=774593750,d=Saint Mary's Simulcast c
+f=774843750,d=Saint Mary's Simulcast c	
 
-# Bethune ASR (St Mary's County)
+# Bethune ASR (Saint Mary's County)
 f=769843750,d=Bethune ASR
 f=770543750,d=Bethune ASR
 f=771043750,d=Bethune ASR
