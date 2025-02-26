@@ -1,0 +1,10 @@
+# Carroll Simulcast
+f=851162500,d=Carroll	
+f=852137500,d=Carroll
+f=852337500,d=Carroll
+f=852425000,d=Carroll c
+f=852450000,d=Carroll
+f=852475000,d=Carroll c
+f=852587500,d=Carroll c
+f=852937500,d=Carroll c
+f=853337500,d=Carroll
