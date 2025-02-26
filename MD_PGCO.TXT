@@ -1,19 +1,19 @@
 # Prince George's County
 #North Simulcast
-f=7692812500,d=PG North Simulcast
-f=7697562500,d=PG North Simulcast
-f=7702562500,d=PG North Simulcast
-f=7706187500,d=PG North Simulcast
-f=7711812500,d=PG North Simulcast
-f=7717312500,d=PG North Simulcast
-f=7717812500,d=PG North Simulcast
-f=7720937500,d=PG North Simulcast
-f=7728812500,d=PG North Simulcast
-f=7731312500,d=PG North Simulcast
-f=7736312500,d=PG North Simulcast c
-f=7741562500,d=PG North Simulcast c
-f=7742062500,d=PG North Simulcast c
-f=7746812500,d=PG North Simulcast c
+f=769281250,d=PG North Simulcast
+f=769756250,d=PG North Simulcast
+f=770256250,d=PG North Simulcast
+f=770618750,d=PG North Simulcast
+f=771181250,d=PG North Simulcast
+f=771731250,d=PG North Simulcast
+f=771781250,d=PG North Simulcast
+f=772093750,d=PG North Simulcast
+f=772881250,d=PG North Simulcast
+f=773131250,d=PG North Simulcast
+f=773631250,d=PG North Simulcast c
+f=774156250,d=PG North Simulcast c
+f=774206250,d=PG North Simulcast c
+f=774681250,d=PG North Simulcast c
 
 #South Simulcast 
 f=769581250,d=PG South Simulcast
