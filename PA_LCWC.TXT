@@ -33,21 +33,21 @@ f=478787500,d=Northwest Simulcast
 f=478862500,d=Northwest Simulcast
 
 #South Simulcast 	(Lancaster County) 	
-476.4625c	
-476.725c	
-477.3625c	
-477.6625c	
-477.8125c	
-477.925c	 
+f=476462500,d=South Simulcast
+f=476725000,d=South Simulcast
+f=477362500,d=South Simulcast
+f=477662500,d=South Simulcast
+f=477812500,d=South Simulcast
+f=477925000,d=South Simulcast
 
 #COW (Portable site) 	(Lancaster County) 	
-476.050c	
-476.575c	
-477.100c	
-477.625c	 	 	 
+f=476050000,d=COW (Portable site)
+f=476575000,d=COW (Portable site)
+f=477100000,d=COW (Portable site)
+f=477625000,d=COW (Portable site)
 
 #Atglen 	(Chester County) 	
-453.275c	
-453.8375c	
-460.300c	
-460.550c
+f=453275000,d=Atglen
+f=453837500,d=Atglen
+f=460300000,d=Atglen
+f=460550000,d=Atglen
