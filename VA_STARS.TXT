@@ -1,0 +1,75 @@
+# Virginia Statewide Agencies Radio System (STARS)
+
+RFSS 	Site 	Name 	County 	Freqs
+1 (1) 	001 (1) 	Richmond 	Chesterfield 	151.1525c	151.3175	152.0375c	158.9925	159.1125	159.1875	159.2625
+ 	 	 	 	159.3375	159.4275	159.4575	 	 	 	 
+1 (1) 	002 (2) 	Petersburg 	Petersburg 	151.3475	151.3625	151.4675	152.1425c	152.5325c	152.5925	152.7725
+1 (1) 	003 (3) 	Mineral 	Louisa 	152.0225c	158.8425c	159.2925	 	 	 	 
+1 (1) 	004 (4) 	Warsaw 	Richmond 	152.2325c	152.7275c	158.7225	159.3675	 	 	 
+1 (1) 	005 (5) 	Rumford 	King William 	151.0325c	151.4825	152.2475	152.5025c	152.8025c	 	 
+1 (1) 	006 (6) 	Thornburg 	Spotsylvania 	151.1825	151.430	152.0975c	152.8025	159.2025	159.3975c	 
+1 (1) 	007 (7) 	Fork Mountain 	Madison 	151.0475	151.2125	151.280	151.3025	151.3775	151.4075	152.0825c
+ 	 	 	 	152.7125c	161.950	 	 	 	 	 
+1 (1) 	008 (8) 	Hogback Mountain 	Rappahannock 	151.3625c	151.3925c	159.0075	159.1275	159.3825	161.850	161.8875
+ 	 	 	 	161.900	 	 	 	 	 	 
+1 (1) 	009 (9) 	Pinnacle Knob 	Frederick 	151.055	151.1525	152.5175c	158.7675	159.1725	159.7125	161.825c
+ 	 	 	 	161.8275	 	 	 	 	 	 
+1 (1) 	010 (A) 	Harrisonburg 	Rockingham 	151.2275	152.7275c	159.1875	161.8125c	 	 	 
+1 (1) 	011 (B) 	Hampton 	Hampton 	152.0975	152.5475	152.5775c	152.6075	152.7575c	152.8175	159.2475
+1 (1) 	012 (C) 	Williamsburg 	York 	151.3925	151.4525	152.0675c	159.2325	159.3075c	159.3825	159.4425
+1 (1) 	013 (D) 	Accomac 	Accomack 	152.7125c	159.1125c	159.2625	159.3375	 	 	 
+1 (1) 	014 (E) 	Chesapeake 	Chesapeake 	151.2125	151.3025	151.3775	151.4375	152.0225	152.1575c	152.5625
+ 	 	 	 	152.7275	152.7425c	152.7875c	159.0975	 	 	 
+1 (1) 	015 (F) 	Emporia 	Emporia 	151.1825c	151.4375c	159.2025	159.3975	 	 	 
+1 (1) 	016 (10) 	Franklin 	Southampton 	152.1575c	152.7275c	 	 	 	 	 
+1 (1) 	017 (11) 	Fairfax 	Fairfax 	152.2025c	158.7975	159.0975c	159.135	159.4275c	 	 
+1 (1) 	018 (12) 	Independent Hill 	Prince William 	151.025	151.370	152.5475c	158.8125c	159.120	159.225	 
+1 (1) 	019 (13) 	Arlington 	Arlington 	151.025	151.0325	152.2175	152.5325c	158.8275c	159.195	159.2625
+1 (1) 	020 (14) 	Mobile Site - Chesapeake Division 	Statewide 	851.100	851.5875	851.900	852.2375c	853.6125c	 	 
+1 (1) 	020 (14) 	Mobile Site - Richmond Division 	Statewide 	853.200	853.475c	853.925c	 	 	 	 
+1 (1) 	020 (14) 	Virginia Beach 	Virginia Beach 	152.0375c	152.1425	152.5175c	152.8025	 	 	 
+1 (1) 	020 (14) 	Mobile Site - Appomattox Division 	Statewide 	851.7625	852.075	852.1375	853.225c	853.525c	 	 
+1 (1) 	021 (15) 	Burgess 	Northumberland 	151.1675c	158.7675	159.3225c	 	 	 	 
+1 (1) 	022 (16) 	Cheriton 	Northampton 	151.0475c	151.1225c	158.8575c	159.2925	159.3525	 	 
+1 (1) 	023 (17) 	Mount Weather 	Loudoun 	149.520	152.0825	152.5025c	152.7275	152.8025c	159.435	 
+1 (1) 	024 (18) 	Dumfries 	Prince William 	151.040	151.070c	152.2175c	152.7125	154.9575	159.300	 
+1 (1) 	026 (1A) 	Rawley Springs 	Rockingham 	161.800c	161.875c	161.9375	162.000	 	 	 
+1 (1) 	027 (1B) 	Edgehill 	King George 	152.5175c	152.8175c	158.7525	 	 	 	 
+1 (1) 	028 (1C) 	Waverly 	Sussex 	152.2175c	152.7125c	 	 	 	 	 
+1 (1) 	029 (1D) 	Glen Allen 	Henrico 	151.1525	152.1575	152.2025	152.6075c	152.7575c	 	 
+1 (1) 	030 (1E) 	Gordonsville 	Orange 	159.180c	159.345	161.875c	162.000	 	 	 
+1 (1) 	031 (1F) 	Massanutten 	Page 	152.7125	152.8175	161.8125c	 	 	 	 
+1 (1) 	032 (20) 	Amelia 	Amelia 	152.0525c	152.5025	152.7275c	152.8025	 	 	 
+1 (1) 	034 (22) 	West Point 	King William 	152.0525c	152.5025c	152.5175	152.5625	152.7425	152.7875	 
+2 (2) 	001 (1) 	Long Mountain 	Campbell 	152.6675	152.8025	161.8125c	161.875c	162.000	 	 
+2 (2) 	002 (2) 	Halifax 	Halifax 	151.2725c	152.7875c	159.2625	 	 	 	 
+2 (2) 	003 (3) 	Leigh Mountain 	Prince Edward 	152.5175	152.5625c	152.6075c	152.7575	152.8175	 	 
+2 (2) 	004 (4) 	South Hill 	Mecklenburg 	151.1675c	158.7675	159.0075	159.2175c	159.3225	 	 
+2 (2) 	005 (5) 	Bear Den Mountain 	Albemarle 	158.7225	158.8275	159.3675	159.4425	161.8375	161.8625c	161.925c
+2 (2) 	006 (6) 	Hightop Mountain 	Nelson 	151.1525	161.825c	161.925c	 	 	 	 
+2 (2) 	007 (7) 	Cumberland 	Cumberland 	152.5475c	152.5775	152.7425c	159.3525	 	 	 
+2 (2) 	008 (8) 	Dismal Mountain 	Giles 	152.5625c	152.6075c	159.2625	161.9125c	 	 	 
+2 (2) 	009 (9) 	Beamer Knob 	Carroll 	151.3925c	158.9925	161.950c	162.000	 	 	 
+2 (2) 	010 (A) 	Whitetop Mountain 	Smyth 	152.5175c	161.8125c	161.850c	161.8625c	 	 	 
+2 (2) 	011 (B) 	Buck Mountain 	Grayson 	152.0825c	152.6675c	 	 	 	 	 
+2 (2) 	012 (C) 	East River Mountain 	Tazewell 	161.8125c	161.8375c	161.900c	 	 	 	 
+2 (2) 	013 (D) 	Honaker 	Buchanan 	152.6825c	152.7125c	161.875	162.000	 	 	 
+2 (2) 	014 (E) 	Norton 	Wise 	152.0375c	152.2175c	152.6675	152.7875	159.3825	 	 
+2 (2) 	015 (F) 	Jonesville 	Lee 	152.0675	152.6525c	152.6975c	 	 	 	 
+2 (2) 	016 (10) 	Abingdon 	Washington 	152.5325c	161.825	161.850c	161.8875	 	 	 
+2 (2) 	017 (11) 	Oakwood 	Buchanan 	152.8175c	161.800c	 	 	 	 	 
+2 (2) 	018 (12) 	Fort Lewis Mountain 	Roanoke 	151.1825c	151.3475	151.3775	152.5475c	152.6525	152.780	159.150
+ 	 	 	 	159.405	 	 	 	 	 	 
+2 (2) 	019 (13) 	Bull Mountain 	Patrick 	152.5025c	152.7725c	159.2175	159.3675	161.8625	 	 
+2 (2) 	020 (14) 	White Oak Mountain 	Pittsylvania 	152.7275c	161.8375c	 	 	 	 	 
+2 (2) 	021 (15) 	Peters Mountain 	Alleghany 	152.7125c	152.7575c	159.0975	159.210	 	 	 
+2 (2) 	022 (16) 	North Mountain 	Alleghany 	152.2175	159.120	159.4125	161.850c	161.9375c	 	 
+2 (2) 	023 (17) 	Duncan Knob 	Bath 	151.3925	152.5025c	159.2325c	159.3825	 	 	 
+2 (2) 	024 (18) 	Sounding Knob 	Highland 	151.3175	151.4825	152.5325c	152.5775c	 	 	 
+2 (2) 	025 (19) 	Apple Orchard Mountain 	Bedford 	151.385	151.4525	152.0825c	161.800c	 	 	 
+2 (2) 	026 (1A) 	Bath County Hydro 	Bath 	161.8125c	161.875	161.900c	162.000	 	 	 
+2 (2) 	027 (1B) 	Elkin's Branch 	Buchanan 	161.900c	161.9375c	161.950c	 	 	 	 
+2 (2) 	028 (1C) 	Big Walker Mountain 	Bland 	151.430	159.270	159.4275c	161.9125c	 	 	 
+2 (2) 	029 (1D) 	Lambsburg 	Carroll 	161.825c	 	 	 	 	 	 
+2 (2) 	031 (1F) 	Elliott Knob 	Augusta 	152.5175c	152.5625c	152.7275	159.1875	 	 	 
+2 (2) 	033 (21) 	Potts Mountain 	Craig 	152.0975c	161.850	161.8875	161.950c	 
