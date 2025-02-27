@@ -1,0 +1,14 @@
+a=45000000,b=451000000,m=NFM,bw=11k,s=5kHz,d=Broadcast Pickup 450
+a=45500000,b=456000000,m=NFM,bw=11k,s=5kHz,d=Broadcast Pickup 455
+f=450037500,d=WBAL Chopper 11
+f=450137500,d=WBAL IFB
+f=450162500,d=WBAL Engineering/Aviation
+f=450312500,d=WMAR Engineering
+f=450337500,d=WJZ IFB
+f=450387500,d=WJZ News
+f=450437500,d=WJZ Engineering/Master Control
+f=450562500,d=WBFF IFB
+f=455162500,d=WBAL Chopper 11
+
+
+

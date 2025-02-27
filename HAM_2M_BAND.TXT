@@ -1,0 +1,134 @@
+a=144000000,b=148000000,m=NFM,bw=11k,s=5kHz,d=HAM 2m
+f=144340000,d=ATV Audio
+f=144390000,d=APRS
+f=144410000,d=Misc
+f=144430000,d=Misc
+f=144450000,d=Misc
+f=144470000,d=Misc
+f=144490000,d=Misc
+f=144910000,d=Misc
+f=144930000,d=Misc
+f=144950000,d=Misc
+f=144970000,d=Misc
+f=144990000,d=Misc
+f=145010000,d=Digital
+f=145030000,d=Digital
+f=145050000,d=Digital
+f=145070000,d=Digital
+f=145090000,d=Digital
+f=145110000,d=Repeater Out
+f=145130000,d=Repeater Out
+f=145150000,d=Repeater Out
+f=145170000,d=Repeater Out (SNP)
+f=145190000,d=Repeater Out
+f=145210000,d=Repeater Out
+f=145230000,d=Repeater Out
+f=145250000,d=Repeater Out
+f=145270000,d=Repeater Out
+f=145290000,d=Repeater Out
+f=145310000,d=Repeater Out
+f=145330000,d=Repeater Out
+f=145350000,d=Repeater Out
+f=145370000,d=Repeater Out
+f=145390000,d=Repeater Out
+f=145410000,d=Repeater Out
+f=145430000,d=Repeater Out
+f=145450000,d=Repeater Out
+f=145470000,d=Repeater Out
+f=145490000,d=Repeater Out
+f=145510000,d=Digital
+f=145530000,d=Digital
+f=145550000,d=Digital
+f=145570000,d=Digital
+f=145590000,d=Digital
+f=145610000,d=Digital
+f=145630000,d=Digital
+f=145650000,d=Digital
+f=145670000,d=Digital
+f=145690000,d=Digital
+f=145710000,d=Digital
+f=145730000,d=Digital
+f=145750000,d=Digital
+f=145770000,d=Digital
+f=145790000,d=Digital
+f=145990000,d=ISS Uplink
+f=146415000,d=Simplex
+f=146430000,d=Simplex
+f=146445000,d=Simplex
+f=146460000,d=Simplex
+f=146475000,d=Simplex
+f=146490000,d=Simplex
+f=146505000,d=Simplex
+f=146520000,d=Simplex Calling
+f=146535000,d=Simplex
+f=146550000,d=Simplex
+f=146565000,d=Simplex
+f=146580000,d=Simplex
+f=146595000,d=Simplex
+f=146610000,d=Repeater Out
+f=146625000,d=Repeater Out
+f=146640000,d=Repeater Out
+f=146655000,d=Repeater Out
+f=146670000,d=Repeater Out
+f=146685000,d=Repeater Out
+f=146700000,d=Repeater Out
+f=146715000,d=Repeater Out
+f=146730000,d=Repeater Out
+f=146745000,d=Repeater Out
+f=146760000,d=Repeater Out
+f=146775000,d=Repeater Out
+f=146790000,d=Repeater Out
+f=146805000,d=Repeater Out
+f=146820000,d=Repeater Out
+f=146835000,d=Repeater Out
+f=146850000,d=Repeater Out
+f=146865000,d=Repeater Out
+f=146880000,d=Repeater Out
+f=146895000,d=Repeater Out
+f=146910000,d=Repeater Out
+f=146925000,d=Repeater Out
+f=146940000,d=Repeater Out
+f=146955000,d=Repeater Out
+f=146970000,d=Repeater Out
+f=146985000,d=Repeater Out
+f=147000000,d=Repeater Out
+f=147015000,d=Repeater Out
+f=147030000,d=Repeater Out
+f=147045000,d=Repeater Out
+f=147060000,d=Repeater Out
+f=147075000,d=Repeater Out
+f=147090000,d=Repeater Out
+f=147105000,d=Repeater Out
+f=147120000,d=Repeater Out
+f=147135000,d=Repeater Out
+f=147150000,d=Repeater Out
+f=147165000,d=Repeater Out
+f=147180000,d=Repeater Out
+f=147195000,d=Repeater Out
+f=147210000,d=Repeater Out
+f=147225000,d=Repeater Out
+f=147240000,d=Repeater Out
+f=147255000,d=Repeater Out
+f=147270000,d=Repeater Out
+f=147285000,d=Repeater Out
+f=147300000,d=Repeater Out
+f=147315000,d=Repeater Out
+f=147330000,d=Repeater Out
+f=147345000,d=Repeater Out
+f=147360000,d=Repeater Out
+f=147375000,d=Repeater Out
+f=147390000,d=Repeater Out
+f=147405000,d=Simplex
+f=147420000,d=Simplex
+f=147435000,d=Simplex
+f=147450000,d=Simplex
+f=147465000,d=Simplex
+f=147480000,d=Simplex
+f=147495000,d=Simplex
+f=147510000,d=Simplex
+f=147525000,d=Simplex
+f=147540000,d=Simplex
+f=147555000,d=Simplex
+f=147570000,d=Simplex
+f=147585000,d=Simplex
+f=147600000,d=Simplex

@@ -1,0 +1,7 @@
+# Baltimore Area
+f=46460000,d=Baltimore Co FD
+f=154385000,d=Baltimore City FD
+f=460600000,d=Harford Co FD
+f=154010000,d=AA Co FD
+f=154250000,d=Howard Co FD
+f=154160000,d=Mont Co FD
