@@ -1,0 +1,167 @@
+# PA-STARNet: Pennsylvania Statewide Radio Network
+
+Sites and Frequencies
+Red (c) are control channel capable frequencies
+RFSS 	Site 	Name 	County 	Freqs
+1 (1) 	001 (1) 	Garland (WARR17) 	Warren 	154.2575c	154.8525c	155.1375c	 	 	 
+1 (1) 	002 (2) 	Kinzua Dam (WARR34) 	Warren 	159.1275c	159.315c	159.465c	 	 	 
+1 (1) 	003 (3) 	Fulton Simulcast 	Fulton 	151.2275c	155.520	156.210c	 	 	 
+1 (1) 	004 (4) 	Ellendale (DAUP01) 	Dauphin 	151.3475	158.760c	159.1125c	159.390c	 	 
+1 (1) 	005 (5) 	Hilliards (BUTL01) 	Butler 	151.2725c	151.400c	151.445	 	 	 
+1 (1) 	006 (6) 	Townville (CRAW01) 	Crawford 	159.090c	159.210c	159.3375c	159.3825c	 	 
+1 (1) 	007 (7) 	Cussewago (CRAW37) 	Crawford 	151.3025c	151.3175c	151.3475c	 	 	 
+1 (1) 	008 (8) 	Guitonville (FORE07) 	Forest 	151.010	151.145	151.250c	151.460	 	 
+1 (1) 	009 (9) 	Seneca (VENA12) 	Venango 	154.205	154.325c	154.935c	 	 	 
+1 (1) 	010 (A) 	Findley Twp (MERC31) 	Mercer 	151.010c	154.0625	159.1275c	 	 	 
+1 (1) 	011 (B) 	Erie (ERIE80) 	Erie 	151.415c	159.120	159.3675c	 	 	 
+1 (1) 	012 (C) 	Erie 800 (ERIE80) 	Erie 	851.425	851.7125c	851.9875c	852.6375c	 	 
+1 (1) 	013 (D) 	Five Points 800 (ERIE82) 	Erie 	852.3375c	852.550	852.9875c	 	 	 
+1 (1) 	014 (E) 	Edinboro (ERIE92) 	Erie 	852.1375c	852.7625c	852.975c	 	 	 
+1 (1) 	015 (F) 	North East 800 (ERIE93) 	Erie 	851.8625	852.250c	852.4875c	852.8875c	 	 
+1 (1) 	016 (10) 	Presque Isle (ERIE40) 	Erie 	151.070	151.2125	151.2725c	 	 	 
+1 (1) 	017 (11) 	Lawrence Park (ERIE84) 	Erie 	453.975	460.3625	460.375c	 	 	 
+1 (1) 	018 (12) 	Wiconisco (DAUP37) 	Dauphin 	856.0625	857.0625	857.4875c	858.2125c	858.4875c	 
+1 (1) 	019 (13) 	Grindstone (LAWR06) 	Lawrence 	151.175c	151.295	151.385c	 	 	 
+1 (1) 	020 (14) 	Woodbine (BUTL03) 	Butler 	151.0325c	155.405	161.825c	 	 	 
+1 (1) 	021 (15) 	Darlington (BEAV01) 	Beaver 	151.1975	155.3025c	155.5425c	 	 	 
+1 (1) 	022 (16) 	Blanket Hill (ARMS32) 	Armstrong 	159.1875	161.925c	162.000c	 	 	 
+1 (1) 	023 (17) 	Limestone (CLAR05) 	Clarion 	151.130c	151.280c	151.4825	 	 	 
+1 (1) 	024 (18) 	Fairchance (FAYE01) 	Fayette 	161.825c	161.8625c	161.9375	 	 	 
+1 (1) 	025 (19) 	Nettle Hill (GREE08) 	Greene 	151.115c	151.220	151.415c	 	 	 
+1 (1) 	026 (1A) 	Wexford (ALLE28) 	Allegheny 	854.2375	854.5625c	855.9875c	857.0625c	 	 
+1 (1) 	027 (1B) 	Tarentum (ALLE41) 	Allegheny 	854.0625	854.3625c	854.6625c	858.0875c	 	 
+1 (1) 	029 (1D) 	Oakdale (ALLE601) 	Allegheny 	854.2125	854.5125c	856.5375c	857.1125c	 	 
+1 (1) 	030 (1E) 	West Mifflin (ALLE25) 	Allegheny 	854.5875	856.0625c	857.0875c	858.0375c	 	 
+1 (1) 	031 (1F) 	Penn Hills (ALLE21) 	Allegheny 	854.0375	854.3375c	856.0375c	857.7375c	 	 
+1 (1) 	032 (20) 	Pittsburgh (ALLE59) 	Allegheny 	854.1125	854.4625c	856.0875c	856.7375c	 	 
+1 (1) 	033 (21) 	Claysville (WASH03) 	Washington 	151.4675c	155.5275c	156.1275	 	 	 
+1 (1) 	034 (22) 	Scenery Hill (WASH49) 	Washington 	155.730c	159.1425	159.3325c	 	 	 
+1 (1) 	035 (23) 	Lower Yoder (CAMB02) 	Cambria 	151.1525c	151.295	151.3475c	 	 	 
+1 (1) 	036 (24) 	Derry (WEST30) 	Westmoreland 	154.920c	154.935	161.875c	 	 	 
+1 (1) 	037 (25) 	Clymer (INDI01) 	Indiana 	158.730	159.1275c	159.375c	 	 	 
+1 (1) 	038 (26) 	Rossiter (INDI07) 	Indiana 	151.235	151.4675c	151.475	159.3225c	 	 
+1 (1) 	039 (27) 	Bald Knob (SOME02) 	Somerset 	156.410	159.210	161.8375c	161.8875c	 	 
+1 (1) 	040 (28) 	Mt Davis (SOME06) 	Somerset 	161.8125c	161.9125c	162.000	 	 	 
+1 (1) 	041 (29) 	Martin Hill (BEDF02) 	Bedford 	151.085	151.4825c	154.1375c	 	 	 
+1 (1) 	042 (2A) 	Tyrone (CENT04) 	Blair 	158.8125	159.105c	159.240c	 	 	 
+1 (1) 	043 (2B) 	Rattlesnake Pike (CENT16) 	Centre 	154.680c	154.695	155.670c	 	 	 
+1 (1) 	044 (2C) 	Little Flat (CENT08) 	Centre 	161.8125c	161.850c	161.8875	 	 	 
+1 (1) 	045 (2D) 	Riansares Mtn (CLIN41) 	Clinton 	151.385c	154.905c	155.580c	 	 	 
+1 (1) 	046 (2E) 	Shade Mtn (SNYD02) 	Snyder 	154.9425c	155.4675	155.505c	 	 	 
+1 (1) 	047 (2F) 	Butler Knob (HUNT04) 	Huntingdon 	154.130c	154.4225c	154.9725	 	 	 
+1 (1) 	048 (30) 	ECEN Simulcast 	Columbia 	161.825	161.8625c	161.900c	161.9375	 	 
+1 (1) 	049 (31) 	Upper Strasburg (FRAN01) 	Franklin 	151.1825c	151.385c	155.2425	 	 	 
+1 (1) 	050 (32) 	South Mtn (FRAN02) 	Franklin 	158.8425c	159.090c	159.1875c	 	 	 
+1 (1) 	051 (33) 	Blain (PERR01) 	Perry 	158.7975c	159.2175c	159.2325	 	 	 
+1 (1) 	052 (34) 	Harrisburg RCSOB (DAUP73) 	Dauphin 	854.6625	856.1625c	856.8875c	859.1375c	 	 
+1 (1) 	053 (35) 	Ellendale 800 (DAUP01) 	Dauphin 	854.3375	855.0625	855.4375c	856.0125c	857.3375c	 
+1 (1) 	054 (36) 	Reesers Summit (YORK01) 	York 	851.075c	851.4875c	851.9375c	852.3125	 	 
+1 (1) 	055 (37) 	Hanover (YORK35) 	York 	854.6125	856.5625	858.3375c	859.0625c	859.6875c	 
+1 (1) 	056 (38) 	Red Lion (YORK34) 	York 	855.9625	857.1375c	857.9125c	859.0875c	 	 
+1 (1) 	057 (39) 	Gatchellville (YORK89) 	York 	854.6375	856.8375c	857.9375c	858.8375c	 	 
+1 (1) 	058 (3A) 	Andersontown (YORK16) 	York 	155.445c	155.550c	156.1125	 	 	 
+1 (1) 	059 (3B) 	Big Flat 800 (CUMB04) 	Adams 	855.1625c	856.3375c	858.5625c	 	 	 
+1 (1) 	060 (3C) 	Warren Simulcast 	Warren 	151.205c	151.340c	151.4675c	 	 	 
+1 (1) 	061 (3D) 	Allegheny Region Simulcast 	Allegheny 	161.800c	161.850c	161.900c	161.950	 	 
+1 (1) 	062 (3E) 	Loop Lookout (HUNT01) 	Huntingdon 	154.1675	154.905c	155.460c	 	 	 
+1 (1) 	063 (3F) 	Lewistown (MIFF35) 	Mifflin 	154.665c	154.755c	154.920	 	 	 
+1 (1) 	064 (40) 	Cornwall (LANC01) 	Lancaster 	153.080c	153.455	153.5225c	 	 	 
+1 (1) 	065 (41) 	Truce (LANC33) 	Lancaster 	153.4475c	153.6125c	154.4075	 	 	 
+1 (1) 	066 (42) 	Connellsville (FAYE60) 	Fayette 	168.8875c	168.9875c	170.725	 	 	 
+1 (1) 	067 (43) 	Mercer (CRAW33) 	Crawford 	151.2125c	151.2575c	 	 	 	 
+1 (1) 	068 (44) 	Pocopson (CHES31) 	Chester 	854.5125	855.0125c	856.6375c	858.6375c	 	 
+1 (1) 	069 (45) 	Oxford (CHES96) 	Chester 	854.1625	856.1375c	856.5375c	858.6125c	 	 
+1 (1) 	070 (46) 	Devault (CHES02) 	Chester 	168.875c	169.600c	170.6625	 	 	 
+1 (1) 	071 (47) 	Keffers (SCHU03) 	Schuylkill 	151.385c	153.1025c	 	 	 	 
+1 (1) 	072 (48) 	Newport UHF (PERR86) 	Perry 	453.150	453.625c	453.8375c	 	 	 
+1 (1) 	073 (49) 	Ft Indiantown Gap North (LEBA74) 	Lebanon 	856.4875c	858.0875c	859.4875c	 	 	 
+1 (1) 	074 (4A) 	Port Clinton (BERK04) 	Berks 	153.0725c	153.440c	155.670	 	 	 
+1 (1) 	075 (4B) 	Devault 800 (CHES02) 	Chester 	854.8125	856.1125c	856.5125c	858.0375c	 	 
+1 (1) 	076 (4C) 	Morgantown (CHES01) 	Chester 	856.5875	857.5875c	858.0625c	859.6375c	 	 
+1 (1) 	077 (4D) 	Blue Knob (BEDF13) 	Bedford 	161.800c	161.8625c	161.9375	 	 	 
+1 (1) 	078 (4E) 	Lima (DELA30) 	Delaware 	854.5875	855.7625c	857.8375c	858.1125c	 	 
+1 (1) 	079 (4F) 	Hibernia Park (CHES33) 	Chester 	168.9875c	169.6125c	170.8375	 	 	 
+1 (1) 	080 (50) 	Graterford (MONY50) 	Montgomery 	856.9125	857.4125c	858.5375c	859.5625c	 	 
+1 (1) 	081 (51) 	Willow Grove 800 (MONY02) 	Montgomery 	856.7875c	857.6375c	859.5375c	 	 	 
+1 (1) 	082 (52) 	Willow Grove (MONY02) 	Montgomery 	151.0625c	154.9425c	155.0775	 	 	 
+1 (1) 	083 (53) 	Philadelphia 800 (PHIL02) 	Philadelphia 	854.0375	854.6875c	855.5875c	857.6125c	 	 
+1 (1) 	084 (54) 	Emmaus (LEHI01) 	Lehigh 	855.6125c	859.4125c	859.6625c	 	 	 
+1 (1) 	085 (55) 	Center Valley (LEHI05) 	Lehigh 	168.925c	170.150c	170.8125	 	 	 
+1 (1) 	086 (56) 	Bowmanstown (LEHI06) 	Lehigh 	153.185	153.320c	154.755	 	 	 
+1 (1) 	087 (57) 	Nockamixon (BUCK40) 	Bucks 	851.9375c	853.175c	853.4875c	 	 	 
+1 (1) 	088 (58) 	Buckingham 800 (BUCK33) 	Bucks 	852.2875	852.625c	852.8875c	857.5125c	 	 
+1 (1) 	089 (59) 	Buckingham (BUCK33) 	Bucks 	151.1675c	151.3925c	151.445	 	 	 
+1 (1) 	090 (5A) 	Harrisburg Tech Park (DAUP17) 	Dauphin 	851.625c	852.275c	852.550	 	 	 
+1 (1) 	091 (5B) 	Philadelphia (PHIL02) 	Philadelphia 	154.755	155.505c	155.670c	 	 	 
+1 (1) 	092 (5C) 	Five Points (ERIE82) 	Erie 	151.2575c	151.2725c	 	 	 	 
+1 (1) 	093 (5D) 	Philadelphia 700 AG (PHIL02) 	Philadelphia 	773.04375	774.08125c	774.79375c	 	 	 
+1 (1) 	094 (5E) 	Grantville (DAUP31) 	Dauphin 	854.4625	854.6875c	858.5375c	859.5375c	 	 
+1 (1) 	095 (5F) 	Big Flat (CUMB04) 	Adams 	168.825c	170.2625	171.6875c	 	 	 
+1 (1) 	096 (60) 	Stroudsburg (MONR09) 	Northampton 	155.0775c	155.580	155.670c	 	 	 
+1 (1) 	097 (61) 	Mount Pocono (MONR03) 	Monroe 	151.175	151.5425c	154.755c	 	 	 
+1 (1) 	098 (62) 	Indian Orchard (WAYN31) 	Wayne 	154.7925c	154.920c	154.9425	156.1725	 	 
+1 (1) 	099 (63) 	Orson (WAYN33) 	Wayne 	153.3575c	155.460c	 	 	 	 
+1 (1) 	100 (64) 	Archbald (LACK53) 	Lackawanna 	152.2925c	161.8375c	161.875	 	 	 
+1 (1) 	101 (65) 	Shickshinny (LUZE04) 	Luzerne 	153.2675c	155.505c	155.670c	 	 	 
+1 (1) 	102 (66) 	North Mtn (SULL01) 	Sullivan 	151.4525c	152.695c	 	 	 	 
+1 (1) 	103 (67) 	North East UHF (ERIE93) 	Erie 	460.1125c	460.300c	460.625c	 	 	 
+1 (1) 	104 (68) 	McKean Simulcast 	McKean 	151.265c	154.2125	154.680c	154.755	 	 
+1 (1) 	105 (69) 	Dingmans Ferry (PIKE31) 	Pike 	151.2875c	152.055c	152.745	 	 	 
+1 (1) 	106 (6A) 	Montrose (SUSQ86) 	Susquehanna 	168.9125c	170.625c	 	 	 	 
+1 (1) 	107 (6B) 	Hyndman (BEDF30) 	Bedford 	161.850c	161.900c	161.950	 	 	 
+1 (1) 	108 (6C) 	New Milford (SUSQ06) 	Susquehanna 	152.4125c	153.3725c	 	 	 	 
+1 (1) 	109 (6D) 	Georges Township (FAYE62) 	Fayette 	854.0875	854.5375c	854.8875c	 	 	 
+1 (1) 	110 (6E) 	Albrightville (CARB01) 	Carbon 	153.1325c	153.6875c	 	 	 	 
+1 (1) 	111 (6F) 	Mount Pocono 800 (MONR03) 	Monroe 	854.1875	854.5375c	856.7625c	 	 	 
+1 (1) 	112 (70) 	Millville (COLU02) 	Columbia 	153.1925c	153.305c	 	 	 	 
+1 (1) 	113 (71) 	Mt Pisgah (BRAD31) 	Bradford 	153.5825c	153.725c	 	 	 	 
+1 (1) 	114 (72) 	Robwood Mtn (BRAD41) 	Bradford 	151.4975c	154.935c	 	 	 	 
+1 (1) 	115 (73) 	Mehoopany (WYOM30) 	Wyoming 	152.115c	153.4325c	 	 	 	 
+1 (1) 	116 (74) 	Bodine Mtn (LYCO15) 	Lycoming 	159.1125c	159.1275c	 	 	 	 
+1 (1) 	117 (75) 	Waterville (LYCO02) 	Lycoming 	151.340	153.590c	154.755c	 	 	 
+1 (1) 	118 (76) 	Tamarack (CLIN02) 	Clinton 	151.0625c	151.325c	151.4975	 	 	 
+1 (1) 	119 (77) 	Truman (CAME05) 	Cameron 	152.9375c	153.2975c	 	 	 	 
+1 (1) 	120 (78) 	Driftwood (CAME33) 	Cameron 	151.010c	151.310c	 	 	 	 
+1 (1) 	121 (79) 	Hebron (POTT10) 	Potter 	151.3175c	154.740	154.935c	 	 	 
+1 (1) 	122 (7A) 	Denton Hill (POTT12) 	Potter 	153.725c	155.445c	 	 	 	 
+1 (1) 	123 (7B) 	Austin (POTT41) 	Potter 	155.190c	155.460	155.685c	 	 	 
+1 (1) 	124 (7C) 	Westfield (TIOG03) 	Tioga 	152.8925c	155.580c	 	 	 	 
+1 (1) 	125 (7D) 	Mansfield (TIOG06) 	Tioga 	154.680c	155.5275c	 	 	 	 
+1 (1) 	126 (7E) 	Wellsboro (TIOG42) 	Tioga 	153.125c	155.8725c	 	 	 	 
+1 (1) 	127 (7F) 	SB Elliott (CLEA15) 	Clearfield 	154.9425c	156.1125c	156.225	 	 	 
+1 (1) 	128 (80) 	Kane (MCKE90) 	McKean 	151.3475c	159.120	159.390	 	 	 
+1 (1) 	129 (81) 	Hays Lookout (JEFF02) 	Jefferson 	153.2125c	153.695c	 	 	 	 
+1 (1) 	130 (82) 	PSP Lehighton 	Carbon 	152.125c	 	 	 	 	 
+1 (1) 	131 (83) 	Washington County Simulcast 	Washington 	855.3125	856.3875c	858.8625c	 	 	 
+1 (1) 	132 (84) 	Ft Indiantown Gap South (LEBA71) 	Lebanon 	855.8875c	856.7125c	 	 	 	 
+1 (1) 	133 (85) 	Hazleton (LUZE60) 	Luzerne 	453.2625c	453.3375c	 	 	 	 
+1 (1) 	134 (86) 	Wilkes-Barre (LUZE01) 	Luzerne 	769.45625c	770.16875	770.94375	856.0375c	857.0125	857.2625
+1 (1) 	135 (87) 	Geigertown (BERK02) 	Berks 	854.025c	854.700c	857.025	 	 	 
+1 (1) 	136 (88) 	Fountain Hill (LEHI35) 	Lehigh 	857.7625	858.7625c	859.7625c	 	 	 
+1 (1) 	137 (89) 	Williamsport 800 (LYCO01) 	Lycoming 	854.0625c	854.3125c	854.6375	 	 	 
+1 (1) 	138 (8A) 	Reesers Summit 700 AG (YORK01) 	York 	773.03125c	773.78125c	774.55625	 	 	 
+1 (1) 	139 (8B) 	Mahanoy City (SCHU36) 	Schuylkill 	152.0525c	152.0675c	 	 	 	 
+1 (1) 	140 (8C) 	Penfield (CLEA03) 	Clearfield 	151.1225	151.2575c	154.1975c	 	 	 
+1 (1) 	141 (8D) 	Johnsonburg (ELK09) 	Elk 	152.065c	152.545c	 	 	 	 
+1 (1) 	142 (8E) 	Martinsburg 700 AG (BLAI02) 	Blair 	769.15625c	769.70625c	770.44375	 	 	 
+1 (1) 	143 (8F) 	Little Flat 700 AG (CENT08) 	Centre 	769.41875c	770.20625c	773.33125	 	 	 
+1 (1) 	144 (90) 	Denton Hill 700 AG (POTT12) 	Potter 	769.21875c	769.94375c	770.65625	 	 	 
+1 (1) 	145 (91) 	Rocky Grove (VENA08) 	Venango 	854.0125c	854.2875c	854.5375c	 	 	 
+1 (1) 	146 (92) 	Reynoldsville (JEFF53) 	Jefferson 	161.8875	161.950c	 	 	 	 
+1 (1) 	147 (93) 	Hermitage (MERC33) 	Mercer 	161.8125c	161.8875	162.005	 	 	 
+1 (1) 	148 (94) 	Gulph Mills (MONY81) 	Montgomery 	852.1625	853.2375c	853.6375c	 	 	 
+1 (1) 	149 (95) 	New Castle (LAWR31) 	Lawrence 	854.9625	855.4625c	855.7125c	 	 	 
+1 (1) 	150 (96) 	Hershey (DAUP80) 	Dauphin 	855.0125	855.5375c	856.9125c	 	 	 
+3 (3) 	001 (1) 	Equinunk (WAYN11) 	Wayne 	152.0825	152.1125c	152.1275c	 	 	 
+3 (3) 	002 (2) 	NE Potter Co 	Potter 	161.800c	 	 	 	 	 
+3 (3) 	003 (3) 	Waynesburg (GREE32) 	Greene 	854.5375c	854.9625c	855.7125	 	 	 
+3 (3) 	005 (5) 	Harrison City 700 AG (WEST03) 	Westmoreland 	770.95625c	773.06875c	773.83475	 	 	 
+3 (3) 	006 (6) 	Sewickley Heights (ALLE67) 	Allegheny 	854.1625	854.4875c	856.1125c	856.9625c	 	 
+3 (3) 	007 (7) 	Templeton (ARMS01) 	Armstrong 	154.2425c	154.3325c	154.4375	 	 	 
+3 (3) 	008 (8) 	Milford (PIKE33) 	Pike 	151.385	154.0325c	154.115c	 	 	 
+3 (3) 	009 (9) 	Tharp Knob (FAYE09) 	Fayette 	854.050	854.350c	854.600c	 	 	 
+3 (3) 	010 (A) 	Scranton (LACK33) 	Lackawanna 	854.275c	854.6875c	 	 	 	 
+3 (3) 	011 (B) 	Bloss Mtn (TIOG01) 	Tioga 	152.065c	152.785	 	 	 	 
+3 (3) 	012 (C) 	Wind Gap (NORH60) 	Monroe 	854.050	857.275c	858.050c	 	 	 
+3 (3) 	149 (95) 	VHF Deployable 	Itinerant 	152.065c	152.755c	 	 	 	 
+3 (3) 	150 (96) 	800 Deployable 	Itinerant 	853.1875	853.7875c	 
