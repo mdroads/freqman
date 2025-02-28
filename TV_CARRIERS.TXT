@@ -1,8 +1,11 @@
+# Channel 2-6 VHF Low
 f=54310000,d=TV 2 Carrier ATSC 1
 f=60310000,d=TV 3 Carrier ATSC 1
 f=66310000,d=TV 4 Carrier ATSC 1
 f=76310000,d=TV 5 Carrier ATSC 1
 f=82310000,d=TV 6 Carrier ATSC 1
+
+# Channel 7-13 VHF High
 f=174310000,d=TV 7 Carrier ATSC 1
 f=180310000,d=TV 8 Carrier ATSC 1
 f=186310000,d=TV 9 Carrier ATSC 1
@@ -10,6 +13,8 @@ f=192310000,d=TV 10 Carrier ATSC 1
 f=198310000,d=TV 11 Carrier ATSC 1
 f=204310000,d=TV 12 Carrier ATSC 1
 f=210310000,d=TV 13 Carrier ATSC 1
+
+# Channel 14-36 UHF
 f=470310000,d=TV 14 Carrier ATSC 1
 f=476310000,d=TV 15 Carrier ATSC 1
 f=482310000,d=TV 16 Carrier ATSC 1
