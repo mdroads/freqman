@@ -1,18 +1,19 @@
-# Frederick County, md
-f=851621500,d=Frederick Simulcast
-f=851621500,d=Frederick Simulcast
-f=851621500,d=Frederick Simulcast
-f=851621500,d=Frederick Simulcast
-f=851621500,d=Frederick Simulcast
-f=851621500,d=Frederick Simulcast
-f=851621500,d=Frederick Simulcast
-f=851621500,d=Frederick Simulcast
-
-1 (1) 	001 (1) 	Simulcast 	851.6125c	851.9125c	853.225	853.475c	853.750	854.9875c	856.1375	856.4875
- 	 	 	857.4875	858.0875	858.4875	859.4875	 	 	 	 
-1 (1) 	002 (2) 	Brunswick 	
+# Frederick County, MD
+f=851612500,d=Frederick Simulcast
+f=851612500,d=Frederick Simulcast c
+f=851912500,d=Frederick Simulcast c
+f=853225000,d=Frederick Simulcast
+f=853475000,d=Frederick Simulcast c
+f=853750000,d=Frederick Simulcast
+f=854987500,d=Frederick Simulcast c
+f=856137500,d=Frederick Simulcast
+f=856487500,d=Frederick Simulcast
+f=857487500,d=Frederick Simulcast
+f=858087500,d=Frederick Simulcast
+f=858487500,d=Frederick Simulcast
+f=859487500,d=Frederick Simulcast	 	 	 	 
 f=771156250,d=Brunswick Simulcast
 f=772031250,d=Brunswick Simulcast
 f=772656250,d=Brunswick Simulcast
 f=774406250,d=Brunswick Simulcast c
-f=774881250,d=Brunswick Simulcast c	 
+f=774881250,d=Brunswick Simulcast c
