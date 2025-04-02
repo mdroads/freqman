@@ -1,6 +1,6 @@
-# DC Fire-EMS
-f=33860000,d=Allegany Co FD
-f=154010000,d=Anne Arundel Co FD
+# Delaware Fire-EMS
+f=453300000,d=New Castle Co FD
+f=151400000,d=Kent Co FD
 f=46460000,d=Baltimore Co FD
 f=154385000,d=Baltimore City FD
 f=154392500,d=Calvert Co FD
