@@ -1,14 +1,11 @@
 # Delaware Fire-EMS
 f=453300000,d=New Castle Co FD
 f=151400000,d=Kent Co Fire
-f=460625000,d=Carlisle FC (Kent Co Simulcast)
-f=154340000,d=Cheswold FC (Kent Co Simulcast)
-f=157450	  	KSZ256 	B 		FarmingtnVFC 	Farmington Volunteer Fire Company 	FM 	Fire-Talk
-f=1520075	  		B 	CSQ 	Fredrica FD 	Fredrica 800 Fire - simulcast (Sta 49) 	FM 	EMS-Talk
-f=155505	  	KBN499 	RM 	155 DPL 	HarringtonFD 	Harrington FD EMS/FD - rebroadcast of TRS (All county FD EMS is repeated) 	FM 	Fire-Talk
-f=155070	  	WPZA549 	BM 		Marydel VFC 	Marydel Volunteer Fire Company 	FM 	Fire-Talk
-f=154445	  	WNGP583 	RM 	CSQ 	Robbins Fire 	Robbins Hose Company/ Kent county
-f=46460000,d=Baltimore Co FD
-f=154385000,d=Baltimore City FD
-f=154392500,d=Calvert Co FD
-f=154100000,d=Caroline Co FD
+#f=460625000,d=Carlisle FC (Kent Co)
+#f=154340000,d=Cheswold FC (Kent Co)
+#f=157450000,d=Farmington VFC (Kent Co)
+#f=152007500,d=Frederica FD (Kent Co)
+#f=155505000,d=Harrington FD (Kent Co)
+#f=155070000,d=Marydel VFC (Kent Co)
+#f=154445000,d=Robbins Fire (Kent Co)
+f=453850000,d=Sussex Co Fire
