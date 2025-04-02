@@ -1,11 +1,4 @@
 # Delaware Fire-EMS
-f=453300000,d=New Castle Co FD
+f=453300000,d=New Castle Co Fire
 f=151400000,d=Kent Co Fire
-#f=460625000,d=Carlisle FC (Kent Co)
-#f=154340000,d=Cheswold FC (Kent Co)
-#f=157450000,d=Farmington VFC (Kent Co)
-#f=152007500,d=Frederica FD (Kent Co)
-#f=155505000,d=Harrington FD (Kent Co)
-#f=155070000,d=Marydel VFC (Kent Co)
-#f=154445000,d=Robbins Fire (Kent Co)
 f=453850000,d=Sussex Co Fire
