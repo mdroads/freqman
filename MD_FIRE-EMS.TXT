@@ -1,7 +1,21 @@
-# Baltimore Area
+# Maryland Fire-EMS
+f=33860000,d=Allegany Co FD
+f=154010000,d=Anne Arundel Co FD
 f=46460000,d=Baltimore Co FD
-f=154385000,d=Baltimore City FD
+f=154392500,d=Calvert Co FD
+f=154100000,d=Caroline Co FD
+f=155055000,d=Carroll Co FD
+f=155085000,d=Charles Co FD
+f=151070000,d=Dorchester Co FD
+f=153845000,d=Frederick Co FD
+f=158775000,d=Garrett Co FD
 f=460600000,d=Harford Co FD
-f=154010000,d=AA Co FD
 f=154250000,d=Howard Co FD
-f=154160000,d=Mont Co FD
+f=154160000,d=Montgomery Co FD
+f=155685000,d=Prince George's Co FD
+f=151085000,d=Queen Anne's Co FD
+f=154980000,d=St Mary's Co FD
+f=159180000,d=Talbot Co FD
+f=33860000,d=Washington Co FD
+
+f=154385000,d=Baltimore City FD
